@@ -6,36 +6,11 @@
 
 /*-- scss:defaults --*/
 
-$navbar-hl: #ca054d;
-
-
+// Base document colors
+$body-bg: #EAE9E1;
+$body-color: #36383D;
+$link-color: #945747;
 
 
 /*-- scss:rules --*/
-
-/* unvisited link */
-a:link {
-  color:  #ca054d;
-  text-decoration: none;
-}
-
-/* visited link */
-a:visited {
-  color:  #ca054d;
-  text-decoration: none;
-}
-
-/* mouse over link */
-a:hover {
-  color:  #ca054d;
-  text-decoration: underline;
-  
-}
-
-/* selected link */
-a:active {
-  color:  #ca054d;
-  text-decoration: none;
-} 
-
 
