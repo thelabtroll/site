@@ -16,7 +16,10 @@ about:
     - icon: github
       text: Github
       href: https://github.com/thelabtroll
+    # Academic Icons: https://jpswalsh.github.io/academicons/
+    # - text: "{{< ai iconname >}} IconName"
+    #   href: link
 
 ---
 
-Chris is a 2nd year PhD student in Educational Psychology at the University of Minnesota - Twin Cities, with a profound interest in understanding how the mind encodes, retains, and retrieves information. In particular, he focuses on the ways in which people forget information intentionally, as well as how culture and collective narratives shape memory. In his spare time, Chris enjoys knitting and playing tennis.
+Chris Steadman is a PhD student in Educational Psychology at the University of Minnesota - Twin Cities, with a profound interest in understanding how the mind encodes, retains, and retrieves information.
