@@ -7,9 +7,9 @@ about:
   image: img/headshot.jpg
   links:
     # Available icons: https://icons.getbootstrap.com/
-    # - icon: twitter
-    #   text: twitter
-    #   href: https://twitter.com
+    - icon: envelope-fill
+      text: Email
+      href: mailto:stead032@umn.edu
     - icon: github
       text: Github
       href: https://github.com/thelabtroll
