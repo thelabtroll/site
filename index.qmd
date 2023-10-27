@@ -10,12 +10,13 @@ about:
     - icon: envelope-fill
       text: Email
       href: mailto:stead032@umn.edu
-    - icon: github
-      text: Github
-      href: https://github.com/thelabtroll
     - icon: linkedin
       text: LinkedIn
       href: https://www.linkedin.com/in/chris-steadman-214021227/
+    - icon: github
+      text: Github
+      href: https://github.com/thelabtroll
+
 ---
 
 Chris is a 2nd year PhD student in Educational Psychology at the University of Minnesota - Twin Cities, with a profound interest in understanding how the mind encodes, retains, and retrieves information. In particular, he focuses on the ways in which people forget information intentionally, as well as how culture and collective narratives shape memory. In his spare time, Chris enjoys knitting and playing tennis.
