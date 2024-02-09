@@ -4,7 +4,7 @@ about:
   # Templates include: jolla, trestles, solana, marquee, or broadside
   # https://quarto.org/docs/websites/website-about.html
   template: jolla
-  image: img/headshot.jpg
+  image: img/headshot2.jpg
   links:
     # Available icons: https://icons.getbootstrap.com/
     - icon: envelope-fill
