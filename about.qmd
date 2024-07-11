@@ -22,11 +22,12 @@ Master of Biological Sciences in Anatomy Education \| 2016 - 2020
 
 ## Lab Affiliations
 
-[Feedback Lab](https://edpsych.umn.edu/research/labs/martin-vanboekel) \| Graduate Student Researcher \| University of Minnesota - Twin Cities
-
 [Learning Informatics Lab](https://innovation.umn.edu/informatics/) \| Graduate Student Researcher \| University of Minnesota - Twin Cities
 
+[Feedback Lab](https://edpsych.umn.edu/research/labs/martin-vanboekel) \| Graduate Student Researcher \| University of Minnesota - Twin Cities
+
 ## Latest Research
-[The Role of Novelty in Intentional Forgetting](files/Psychonomics 2023 Poster.pdf)
+[Commonalities Between Déjà Vu, Involuntary Autobiographical Memories, and Unexpected Thoughts:
+Investigating Involuntary Thoughts Across the Lifespan](files/STD2024.pdf) 
 
 Presented at Psychonomics 2023
