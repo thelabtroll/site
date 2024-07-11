@@ -2,7 +2,7 @@
 title: "About"
 ---
 
-My research focuses on the interplay between learning and memory, and I am specifically interested in the "bright side of forgetting". At both the individual and collective levels, forgetting processes shape the ways that we integrate information from our environment. Increasing our knowledge of these phenomena helps us to better understand how we learn and remember relevant information, which is key to academic success. With this information, we can improve students' memory of course content and help them become better learners.
+Chris' research focuses on the interplay between memory, attention, and learning within educational contexts. His work aims to enhance our understanding of how these cognitive processes influence students' academic performance and inform effective teaching strategies. His current interests involve the use of naturally occurring data to detect and understand behavior in online learning environments.
 
 Outside of the lab, Chris enjoys knitting and playing tennis. You can also find him playing around with computer code, listening to podcasts, or devouring a good book.
 
@@ -30,4 +30,4 @@ Master of Biological Sciences in Anatomy Education \| 2016 - 2020
 [Commonalities Between Déjà Vu, Involuntary Autobiographical Memories, and Unexpected Thoughts:
 Investigating Involuntary Thoughts Across the Lifespan](files/STD2024.pdf) 
 
-Presented at Psychonomics 2023
+Presented at Society for Text and Discourse Conference 2024
